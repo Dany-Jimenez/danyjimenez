@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, me llamo Daniel Jiménez Martín</h1>
-<h3 align="center">Un apasionado de la informática, y especialmente del desarrollo web.</h3>
+<h1 align="center">Hola 🙋‍♂️, me llamo Daniel Jiménez Martín</h1>
+<h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web. 🎆</h3>
 
 - Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
 
-- 🌱 Estoy aprendiendo **HTML5, CSS3 y JavaScript**
+- 📚 Estoy aprendiendo **HTML5, CSS3 y JavaScript**
 
-- 👨‍💻 Puedes visitar mi portoflio en [www.danieljimenezmartin.com](www.danieljimenezmartin.com)
+- :shipit: Puedes visitar mi portoflio en [www.danieljimenezmartin.com](www.danieljimenezmartin.com)
 
 - 📫 Mi correo electrónico es **hola@danieljimenezmartin.com**
 
