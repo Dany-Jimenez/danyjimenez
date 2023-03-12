@@ -6,7 +6,7 @@
 
 - 📚 Estoy aprendiendo **HTML5, CSS3 y JavaScript**
 
-- :shipit: Puedes visitar mi portoflio en [www.danieljimenezmartin.com](www.danieljimenezmartin.com)
+- :shipit: Puedes visitar mi portoflio en [www.danyjimenez.com](www.danyjimenez.com)
 
 - 📫 Mi correo electrónico es **hola@danieljimenezmartin.com**
 
