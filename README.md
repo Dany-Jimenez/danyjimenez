@@ -1,6 +1,6 @@
 <h1 align="center">Hola 🙋‍♂️, me llamo Daniel Jiménez Martín</h1>
 <h3 align="center">Frontend Developer</h3>
-<h3 align="center">Un apasionado de la informática 💻, y especialmente del diseño web :rocket:.</h3>
+<h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web :rocket:.</h3>
 
 - Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
 
