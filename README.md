@@ -12,7 +12,7 @@
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/danieljimenezmartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danieljimenezmartin" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/danieljimenezmartin](https://www.linkedin.com/in/dany-jimenez/)](https://www.linkedin.com/in/dany-jimenez/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danieljimenezmartin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Aplicaciones:</h3>
