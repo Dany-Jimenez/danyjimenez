@@ -8,7 +8,7 @@
 
 - :shipit: Puedes visitar mi portoflio en [www.danyjimenez.com](www.danyjimenez.com)
 
-- 📫 Mi correo electrónico es **hola@danieljimenezmartin.com**
+- 📫 Mi correo electrónico es **hola@danyjimenez.com**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
