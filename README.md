@@ -28,5 +28,12 @@
 </div>
 
 <h3 align="left">Estadísticas:</h3>
+
+<a href="https://github.com/danieljimenezmartin/">
+	
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danieljimenezmartin&theme=great-gatsby&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljimenezmartin&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljimenezmartin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</a>
