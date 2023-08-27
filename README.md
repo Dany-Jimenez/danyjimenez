@@ -26,3 +26,7 @@
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></code>
   <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
 </div>
+
+<h3 align="left">Estadísticas:</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danieljimenezmartin&theme=great-gatsby&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljimenezmartin&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
