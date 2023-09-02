@@ -1,10 +1,10 @@
-<h1 align="center">Hola 🙋‍♂️, me llamo Daniel Jiménez Martín</h1>
+<h1 align="center">Hola 👨‍💻, me llamo Daniel Jiménez Martín</h1>
 <h3 align="center">Frontend Developer</h3>
 <h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web :rocket:.</h3>
 
 - Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
 
-- 📚 Conocimientos de **HTML5, CSS3 y JavaScript**
+- 📚 Conocimientos en **HTML5, CSS3 y JavaScript**
 
 - :shipit: Puedes visitar mi portfolio en [www.danyjimenez.com](https://www.danyjimenez.com)
 
@@ -16,15 +16,11 @@
 </p>
 
 <h3 align="left">Lenguajes y Aplicaciones:</h3>
+
 <div align="center">
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/></code>
-  <code><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></code>
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>
+	
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,ai,ps,vscode,discord,github,linux)](https://skillicons.dev)
+ 
 </div>
 
 <h3 align="left">Estadísticas:</h3>
