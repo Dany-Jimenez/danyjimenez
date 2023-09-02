@@ -4,7 +4,7 @@
 
 - Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
 
-- 📚 Estoy aprendiendo **HTML5, CSS3 y JavaScript**
+- 📚 Conocimientos de **HTML5, CSS3 y JavaScript**
 
 - :shipit: Puedes visitar mi portfolio en [www.danyjimenez.com](https://www.danyjimenez.com)
 
