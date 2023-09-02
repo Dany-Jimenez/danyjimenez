@@ -1,4 +1,6 @@
 <h1 align="center">Hola 👨‍💻, me llamo Daniel Jiménez Martín</h1>
+
+![GitHub followers](https://img.shields.io/github/followers/danieljimenezmartin?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/danieljimenezmartin?style=social)  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanieljimenezmartin%2Fdanieljimenezmartin&label=visitors&countColor=%23ffc300&style=plastic) ![](https://komarev.com/ghpvc/?username=danieljimenezmartin&color=ffc300&style=plastic)
 <h3 align="center">Frontend Developer</h3>
 <h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web :rocket:.</h3>
 
