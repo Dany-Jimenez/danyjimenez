@@ -1,6 +1,12 @@
+![1678231824724](https://github.com/danieljimenezmartin/danieljimenezmartin/assets/117579989/c6cf1ac4-0ac3-429f-9105-8c44916d2872)
 <h1 align="center">Hola 👨‍💻, me llamo Daniel Jiménez Martín</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/danieljimenezmartin?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/danieljimenezmartin?style=social)  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdanieljimenezmartin%2Fdanieljimenezmartin&label=visitors&countColor=%23ffc300&style=plastic) ![](https://komarev.com/ghpvc/?username=danieljimenezmartin&color=ffc300&style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/danieljimenezmartin?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/danieljimenezmartin?style=social)  
+![](https://vbr.wocr.tk/badge?page_id=danieljimenezmartin.danieljimenezmartin&lcolor=a4133c&color=555555&style=plastic&logo=Github&hit=false)
+
+![visitor badge](https://visitor-badge.imlete.cn/?id=danieljimenezmartin.danieljimenezmartin&labelColor=f00)
+
+![](https://komarev.com/ghpvc/?username=danieljimenezmartin&color=ffc300&style=plastic)
 <h3 align="center">Frontend Developer</h3>
 <h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web :rocket:.</h3>
 
