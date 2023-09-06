@@ -1,8 +1,10 @@
 ![1678231824724](https://github.com/danieljimenezmartin/danieljimenezmartin/assets/117579989/c6cf1ac4-0ac3-429f-9105-8c44916d2872)
 <h1 align="center">Hola 👨‍💻, me llamo Daniel Jiménez Martín</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/danieljimenezmartin?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/danieljimenezmartin?style=social) ![visitor badge](https://visitor-badge.imlete.cn/?id=danieljimenezmartin.danieljimenezmartin&color=ffc300&style=plastic) ![](https://komarev.com/ghpvc/?username=danieljimenezmartin&color=ffc300&style=plastic)
-<h3 align="center">Frontend Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFC300&center=true&width=1000&lines=FRONT-END+DEVELOPER)](https://git.io/typing-svg)
+
+![GitHub followers](https://img.shields.io/github/followers/danieljimenezmartin?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/danieljimenezmartin?style=social) ![visitor badge](https://visitor-badge.imlete.cn/?id=danieljimenezmartin.danieljimenezmartin&color=ffc300&style=plastic) ![](https://komarev.com/ghpvc/?username=danieljimenezmartin&color=ffc300&style=plastic)  
+
 <h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web :rocket:.</h3>
 
 - Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
