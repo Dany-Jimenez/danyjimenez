@@ -7,7 +7,7 @@
 
 <h3 align="center">Un apasionado de la informática 💻, y especialmente del desarrollo web :rocket:.</h3>
 
-- Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
+- 🔍 Actualmente estoy buscando trabajo como **desarrollador web | Frontend Developer**
 
 - 📚 Conocimientos en **HTML5, CSS3 y JavaScript**
 
