@@ -38,5 +38,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljimenezmartin&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljimenezmartin&hide=html&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljimenezmartin&hide=php,hack&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </a>
