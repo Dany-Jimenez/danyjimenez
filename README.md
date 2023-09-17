@@ -24,9 +24,11 @@
 
 <div align="center">
 	
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,ai,ps,vscode,discord,github,linux)](https://skillicons.dev)
- 
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,bootstrap,wordpress,ai,ps,vscode,discord,github,linux)](https://skillicons.dev) 
+![lightroom](https://github.com/danieljimenezmartin/danieljimenezmartin/assets/117579989/5e2d2525-6d13-4e44-a0db-6134d8090e61)
+
+
+ </div>
 
 <h3 align="left">Estadísticas:</h3>
 
